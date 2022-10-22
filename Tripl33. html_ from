@@ -1,0 +1,19 @@
+# froms_tags
+<!DOCTYPE>
+<Html lang="en">
+<Meta charset="utf-8">
+</From >
+<Input type="text">
+<Input type="text" placeholder=tripple t>
+<Input type="text" placeholder tripple t required>
+<Input type="number">
+<Input type="passwords">
+<Label>
+<Select name="gender"id"="female">
+<Option value="female</option>
+<Input type="checkbox">female</>
+<Input type="radio"name="id"mfx">
+<Body>
+<P>paragraph<p>
+<Strong> text it makes bold
+<A> you can reach us true our Link @www.mfx.com>
